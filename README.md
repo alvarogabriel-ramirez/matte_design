@@ -1,6 +1,13 @@
 # matte_design
 
-A new Flutter project.
+This is a simple music player app design.
+
+## Screenshots
+![](screenshots/homepage2.jpeg)
+![](screenshots/homepage1.jpeg)
+![](screenshots/detailspage.jpeg)
+
+Design inspiration from www.dribbble.com
 
 ## Getting Started
 
